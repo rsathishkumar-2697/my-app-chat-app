@@ -30,9 +30,6 @@ It the application which can be use as the group chat or room chat here anyone c
 
 ![Login Screen in Desktop](https://i.imgur.com/oCuipy4.png)
 <img src="https://i.imgur.com/2b4PNm5.png"/>
-<img width="300" src="https://i.imgur.com/QXE4hli.png"/>
-<img width="300" src="https://i.imgur.com/lX2x66k.png"/>
-<img width="300" src="https://i.imgur.com/k52vBOD.png"/>
 
 
 
