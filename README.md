@@ -29,7 +29,7 @@ It the application which can be use as the group chat or room chat here anyone c
 ## Screenshots
 
 ![Login Screen in Desktop](https://i.imgur.com/oCuipy4.png)
-<img src="https://i.imgur.com/2b4PNm5.png"/>
+
 
 
 
